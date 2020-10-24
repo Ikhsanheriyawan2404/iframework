@@ -36,5 +36,3 @@ class Controller {
 		return htmlentities(trim(strip_tags($data)));
 	}
 }
-
-?>
