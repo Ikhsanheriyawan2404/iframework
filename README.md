@@ -9,7 +9,7 @@ sebuah framework MVC sangat sederhana untuk hanya sekedar melakukan operasi crud
 - lokasi Controller application/controllers & konvensi penamaan controller -> ExampleController.php
 - lokasi Model application/models & konvensi penamaan model -> Example_m.php
 - lokasi View application/views & konvensi penamaan view -> example_v.php
-- <img src="public/assets/screenshot/config.png" alt="controller">
+- <img src="public/assets/screenshot/controller.png" alt="controller">
 - untuk membuat tampilan cara nya $this->template('example/index');
 - mirip dengan template engine laravel, file utama tampilan bisa disimpan di views/template/example_v.php
 
